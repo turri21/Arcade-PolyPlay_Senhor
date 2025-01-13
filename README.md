@@ -1,3 +1,8 @@
+-=(PolyPlay_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 ## Introduction
 
 This is the Poly-Play arcade from East Germany for the [MiSTer board](https://github.com/MiSTer-devel).
